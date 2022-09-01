@@ -1,6 +1,5 @@
 # Anh-Tuan
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Tables</title>
